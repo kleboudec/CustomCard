@@ -1,0 +1,5 @@
+1 "Dragunity" Tuner + 1+ non-Tuner monsters
+When your opponent activates a Spell/Trap (Quick Effect): You can banish 1 "Dragunity" monster from your GY; negate the activation, and if you do, banish that card.
+This card gain 100 ATK for each face-up card that is currently banished. 
+If this card in its owner's possession is destroyed by an opponent's card: You can target 1 Level 8 or lower "Dragunity" Synchro Monster in your GY; Special Summon it.(This is treated as a Synchro Summon.)
+You can only use each effect of "Dragunity Knight - ???" once per turn.

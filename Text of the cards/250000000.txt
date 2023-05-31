@@ -1,0 +1,4 @@
+Cannot be used as Synchro Material, except for the Synchro Summon of a Dragon monster.
+You can only use each effect of "Dragunity - Gladius" once per turn :
+- If you control no monster: You can Special Summon this card from your hand.
+- If this card is currently equipped to a monster: You can Special Summon this equipped card.

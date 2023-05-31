@@ -1,0 +1,5 @@
+1 Tuner Synchro + 1+ non-Tuner monsters
+When your opponent activates a card (Quick Effect): You can banish 1 card attached to this monster; negate the activation, and if you do, banish that card. 
+When your opponent's monster is destroyed by battle and sent to the GY: You can equip it to this card.
+You can send a card equipped to this card, except "Dragunity Knight - Luin", target 3 "Dragunity" cards, shuffle them in your deck
+You can only use each effect of "Dragunity Emperor - Caesareus" once per turn.

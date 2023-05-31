@@ -1,0 +1,3 @@
+1 "Clear Wing" Tuner + 1+ non-Tuner monsters
+If this card is Special Summon, you can send 1 "Clear Wing" monster from your Deck to the GY, whose Level is lower than this card's on the field, and if you do, reduce this card's Level by that monster's.
+Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.
