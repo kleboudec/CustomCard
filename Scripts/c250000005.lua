@@ -22,7 +22,7 @@ function s.initial_effect(c)
 end
 function c250000005.synlimit(e,c)
 	if not c then return false end
-	return not c:IsSetCard(0xff)
+	return not (c:IsSetCard(0xff) or c:IsCode(50954680))
 end
 function c250000005.cfilter(c)
 	return c:IsFaceup() and c:IsSetCard(0xff)
