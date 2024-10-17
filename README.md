@@ -1,2 +1,2 @@
 # Custom cards for YGO Omega
-art are not mine
+Arts are not mine
