@@ -17,7 +17,7 @@ function c250000026.condition(e,tp,eg,ep,ev,re,r,rp)
 	return Duel.GetFieldGroupCount(tp,LOCATION_MZONE,0)==0
 end
 function c250000026.filter(c,e,tp)
-	return ((c:IsType(TYPE_TUNER)and c:IsSetCard(0xe3f))or c:IsCode(78552773) or c:IsCode(78275321)) or (c:IsRace(RACE_SPELLCASTER) and c:IsLevel(5)) and c:IsCanBeSpecialSummoned(e,0,tp,false,false)
+	return ((c:IsType(TYPE_TUNER)and c:IsSetCard(0x29))or c:IsCode(78552773) or c:IsCode(78275321)) or (c:IsRace(RACE_SPELLCASTER) and c:IsLevel(5)) and c:IsCanBeSpecialSummoned(e,0,tp,false,false)
 end
 function c250000026.target(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then
@@ -72,7 +72,7 @@ function c250000026.activate(e,tp,eg,ep,ev,re,r,rp)
 		cb:RegisterEffect(e4)
 	end
 	Duel.SpecialSummonComplete()
-	local mg=Duel.GetSynchroMaterial(tp):Filter(Card.IsSetCard,nil,0xe3f)
+	local mg=Duel.GetSynchroMaterial(tp):Filter(Card.IsSetCard,nil,0x29)
 	if success and Duel.IsExistingMatchingCard(c250000026.cfilter,tp,0,LOCATION_MZONE,1,nil)
 		and Duel.IsExistingMatchingCard(c250000026.scfilter,tp,LOCATION_EXTRA,0,1,nil,mg)
 		and Duel.SelectYesNo(tp,aux.Stringid(250000026,1)) then
