@@ -18,7 +18,7 @@ function s.initial_effect(c)
 end
 
 function c250000023.thfilter(c)
-	return (c:IsSetCard(0xbfa) or c:IsCode(17315396) or c:IsCode(71821687)) and c:IsType(TYPE_MONSTER)  and c:IsAbleToHand()
+	return (c:IsSetCard(0x29) or c:IsCode(17315396) or c:IsCode(71821687)) and c:IsType(TYPE_MONSTER)  and c:IsAbleToHand()
 end
 function c250000023.thtg(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then return Duel.IsExistingMatchingCard(c250000023.thfilter,tp,LOCATION_DECK,0,1,nil) end
